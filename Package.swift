@@ -17,11 +17,11 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "OKTracer",
-            url: "https://artifactory-external.vkpartner.ru/artifactory/okdl-ios-tracer-cache/OKTracer/1.1.0/OKTracer.xcframework.zip",
-            checksum: "19a3a6647af0b74845e166c7382dfbcceb8231beb3392aa7b4cc9d685551e395"),
+            url: "https://artifactory-external.vkpartner.ru/artifactory/okdl-ios-tracer-cache/OKTracer/1.1.1/OKTracer.xcframework.zip",
+            checksum: "e43214de0f3674c2af44a23e4fc54786410dd5f4d5b3b9faf41d24f9e7319c2f"),
         .binaryTarget(
             name: "OKTracerResources",
-            url: "https://artifactory-external.vkpartner.ru/artifactory/okdl-ios-tracer-cache/OKTracer/1.1.0/TracerResources.xcframework.zip",
-            checksum: "5d23b411ffb6089f8ea86db7be2704bf1a5a009af38d2a47f2a3745f2816edd1")
+            url: "https://artifactory-external.vkpartner.ru/artifactory/okdl-ios-tracer-cache/OKTracer/1.1.1/TracerResources.xcframework.zip",
+            checksum: "fabb8757d6b02b8c22e807abb5ec8fcc5c711c7bf413b3a44a18e47a19550cc7")
     ]
 )
